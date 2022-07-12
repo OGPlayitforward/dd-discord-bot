@@ -8,6 +8,7 @@ crepuscular light rays
 diffused light
 reflected light
 backlight
+dusk
 sidelight
 frontlight
 low key lighting
